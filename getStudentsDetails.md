@@ -8,7 +8,7 @@
 
   TASS v52.0 - Return 3 new fields `preferred_surname`, `first_name`, `other_name` in general_details.
   
-  TASS v54.0 - Return 1 new fields `multiparent_flag` in general_details.
+  TASS v54.4 - Return 1 new fields `multiparent_flag` in general_details.
 
 * **Version:**
 
